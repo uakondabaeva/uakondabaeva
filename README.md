@@ -6,10 +6,13 @@
 
 Я начинающий тестировщик.
 
-- Как связаться со мной:  
-[<img src="https://play-lh.googleusercontent.com/zn4PWAdBu9YgY-uP1jSzdeje7hJ_HI2siy07vQ4LZsgUQOKU-1Wbza7lIIMYzB201g" width="30" height="30"  alt="почта" />](mailto:fancy.05@mail.ru) 
+### Как связаться со мной:  
+
+<a href="mailto:fancy.05@mail.ru" target="_blank">
+      <img src="https://play-lh.googleusercontent.com/zn4PWAdBu9YgY-uP1jSzdeje7hJ_HI2siy07vQ4LZsgUQOKU-1Wbza7lIIMYzB201g" width="40" height="40" alt="почта" />
+    </a>&nbsp
 <a href="https://t.me/YuliyaKondabaeva" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/120px-Telegram_2019_Logo.svg.png" width="30" height="30" alt="telegram" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/120px-Telegram_2019_Logo.svg.png" width="40" height="40" alt="telegram" />
     </a>
  
 ---
@@ -22,7 +25,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test IT" alt="Test IT" width="40" height="40"/>
 </div>
 
 ---
