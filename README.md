@@ -90,13 +90,10 @@ https://github.com/uakondabaeva/uakondabaeva
 
 
 #### CI/CD ????:
-- Docker --------------------------
+- Docker
 - GitLab CI/CD --------------------------
-- 
-
 <div>
-  
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Docker_Logo.png/960px-Docker_Logo.png" title="Docker" alt="Docker" height="30"/>
 </div>
 
 ---
