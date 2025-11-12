@@ -22,8 +22,9 @@
 https://github.com/uakondabaeva/uakondabaeva
 
 ---
+### Мои навыки
 
-### Тестовая документация:
+#### Тестовая документация:
 - Jira
 - Test IT
 - TestLink, плагины для Jira, TestPlan внутри Azure DevOps --------------------------
@@ -34,9 +35,9 @@ https://github.com/uakondabaeva/uakondabaeva
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test IT" alt="Test IT" width="40" height="40"/>
 </div>
 
----
 
-### Тестирование веб-приложений:
+
+#### Тестирование веб-приложений:
 - Chrome DevTools
 - Postman
 - SoapUI
@@ -52,16 +53,16 @@ https://github.com/uakondabaeva/uakondabaeva
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" title="Jmeter" alt="Jmeter" height="40"/>
 </div>
 
----
 
-### Тестирование мобильных приложений:
+
+#### Тестирование мобильных приложений:
 - 
 - 
 - 
 
----
 
-### Работа с данными:
+
+#### Работа с данными:
 - MySQL
 - PostgreSQL, MongoDB --------------------------
 - Регулярные выражения --------------------------
@@ -72,9 +73,9 @@ https://github.com/uakondabaeva/uakondabaeva
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </div>
 
----
 
-### Работа с кодом:
+
+#### Работа с кодом:
 - Git
 - Bash
 - VSCode
@@ -86,9 +87,9 @@ https://github.com/uakondabaeva/uakondabaeva
   
 </div>
 
----
 
-### CI/CD ????:
+
+#### CI/CD ????:
 - Docker --------------------------
 - GitLab CI/CD --------------------------
 - 
