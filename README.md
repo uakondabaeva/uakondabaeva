@@ -45,7 +45,7 @@ https://github.com/uakondabaeva/uakondabaeva
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" height="30"/>&nbsp
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" alt="Postman" height="30"/>&nbsp
-  <img src="https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/07/SoapUI%402x-1.webp?fit=872%2C270&ssl=1" title="SoapUI" alt="SoapUI" height="30"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExDCoOGzPqBgruzYMSGxPoWywvSZHSJQSLQ&s" title="SoapUI" alt="SoapUI" height="30"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="Charles Proxy" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" title="Jmeter" alt="Jmeter" height="30"/>&nbsp
   <img src="https://www.genymotion.com/wp-content/uploads/2023/11/icon-logo-desktop.png" title="Genymotion" alt="Genymotion" height="30"/>
