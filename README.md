@@ -69,11 +69,9 @@ https://github.com/uakondabaeva/uakondabaeva
 #### Есть навыки работы:
 - Docker
 - Git
-- Bash
 <!--- GitLab CI/CD-->
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Docker_Logo.png/960px-Docker_Logo.png" title="Docker" alt="Docker" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="30" height="30"/>
 </div>
