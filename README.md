@@ -14,6 +14,9 @@
     </a>&nbsp
 <a href="https://t.me/YuliyaKondabaeva" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/120px-Telegram_2019_Logo.svg.png" width="30" height="30" alt="telegram" />
+    </a>&nbsp
+<a href="https://max.ru/u/f9LHodD0cOI-3W59EsHy5lcp99_PZKEatHIGjxgysf3bKiDPuJ8A7W9A8d8" target="_blank">
+      <img src="https://maxicons.ru/icons/MAX.svg" height="30" alt="max" />
     </a>
 
 ### Примеры работ можно посмотреть тут:  
