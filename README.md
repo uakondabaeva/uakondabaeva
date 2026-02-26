@@ -4,7 +4,7 @@
 
 ### Обо мне:
 
-Я увлечена своим делом, ответственная, всегда готова учиться новому и могу быстро вникнуть в незнакомую область, работаю качественно и с самоотдачей.  
+Я тестировщик, увлечена своим делом, ответственная, всегда готова учиться новому и могу быстро вникнуть в незнакомую область, работаю качественно и с самоотдачей.  
 Есть опыт тестирования web, backend, API, mobile.    
 
 ### Как связаться со мной:  
@@ -68,9 +68,10 @@ https://github.com/uakondabaeva/uakondabaeva
 #### Есть навыки работы:
 - Docker
 - Git
-<!--- GitLab CI/CD-->
+- Linux (уверенный пользователь CLI)
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Docker_Logo.png/960px-Docker_Logo.png" title="Docker" alt="Docker" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp
+  <img src="https://images.icon-icons.com/2367/PNG/512/terminal_shell_icon_143501.png" height="30"/>
 </div>
