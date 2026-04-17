@@ -11,10 +11,10 @@
 
 <a href="mailto:fancy.05@mail.ru" target="_blank">
       <img src="https://play-lh.googleusercontent.com/zn4PWAdBu9YgY-uP1jSzdeje7hJ_HI2siy07vQ4LZsgUQOKU-1Wbza7lIIMYzB201g" width="30" height="30" alt="почта" />
-    </a>&nbsp
+    </a>  
 <a href="https://t.me/YuliyaKondabaeva" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/120px-Telegram_2019_Logo.svg.png" width="30" height="30" alt="telegram" />
-    </a>&nbsp
+    </a>  
 <a href="https://max.ru/u/f9LHodD0cOI-3W59EsHy5lcp99_PZKEatHIGjxgysf3bKiDPuJ8A7W9A8d8" target="_blank">
       <img src="https://maxicons.ru/icons/MAX.svg" height="30" alt="max" />
     </a>
