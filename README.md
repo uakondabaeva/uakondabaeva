@@ -61,9 +61,9 @@ https://github.com/uakondabaeva/uakondabaeva
 - Регулярные выражения
 
 <div>
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="MySQL" alt="MySQL" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" title="MySQL" alt="MySQL" height="40"/>
   <!--&nbsp
-  <img src="https://www.postgresql.org/media/img/about/press/elephant64.png" title="PostgreSQL" alt="PostgreSQL" height="30"/>&nbsp  
+  <img src="https://www.postgresql.org/media/img/about/press/elephant64.png" title="PostgreSQL" title="PostgreSQL" alt="PostgreSQL" height="30"/>&nbsp  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>-->
 </div>
 
