@@ -5,7 +5,7 @@
 ### Обо мне:
 
 Я тестировщик, увлечена своим делом, ответственная, всегда готова учиться новому и могу быстро вникнуть в незнакомую область, работаю качественно и с самоотдачей.  
-Есть опыт тестирования web, backend, API, mobile.    
+Есть опыт тестирования web, mobile, API, БД.    
 
 ### Как связаться со мной:  
 
@@ -56,15 +56,10 @@ https://github.com/uakondabaeva/uakondabaeva
 
 #### Работа с данными:
 - MySQL  
-<!--- PostgreSQL
-- MongoDB-->
 - Регулярные выражения
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" title="MySQL" alt="MySQL" height="40"/>
-  <!--&nbsp
-  <img src="https://www.postgresql.org/media/img/about/press/elephant64.png" title="PostgreSQL" title="PostgreSQL" alt="PostgreSQL" height="30"/>&nbsp  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>-->
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-logo-icon-svg-download-png-3030165.png?f=webp&w=128" height="40"/>
 </div>
 
 
@@ -72,9 +67,11 @@ https://github.com/uakondabaeva/uakondabaeva
 - Docker
 - Git
 - Linux (уверенный пользователь CLI)
+- Python
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Docker_Logo.png/960px-Docker_Logo.png" title="Docker" alt="Docker" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp
-  <img src="https://images.icon-icons.com/2367/PNG/512/terminal_shell_icon_143501.png" height="30"/>
+  <img src="https://images.icon-icons.com/2367/PNG/512/terminal_shell_icon_143501.png" height="30"/>&nbsp
+  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" height="30"/>    
 </div>
