@@ -9,15 +9,11 @@
 
 ### Как связаться со мной:  
 
-<a href="mailto:fancy.05@mail.ru" target="_blank">
-      <img src="https://play-lh.googleusercontent.com/zn4PWAdBu9YgY-uP1jSzdeje7hJ_HI2siy07vQ4LZsgUQOKU-1Wbza7lIIMYzB201g" width="30" height="30" alt="почта" />
-    </a>  
-<a href="https://t.me/YuliyaKondabaeva" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/120px-Telegram_2019_Logo.svg.png" width="30" height="30" alt="telegram" />
-    </a>  
-<a href="https://max.ru/u/f9LHodD0cOI-3W59EsHy5lcp99_PZKEatHIGjxgysf3bKiDPuJ8A7W9A8d8" target="_blank">
-      <img src="https://maxicons.ru/icons/MAX.svg" height="30" alt="max" />
-    </a>
+|Наименование|Ссылка (иконка кликабельна)|
+|-|:-:|
+Mail|<a href="mailto:fancy.05@mail.ru" target="_blank"><img src="https://play-lh.googleusercontent.com/zn4PWAdBu9YgY-uP1jSzdeje7hJ_HI2siy07vQ4LZsgUQOKU-1Wbza7lIIMYzB201g" width="30" height="30" alt="почта"/></a>|
+Telegram|<a href="https://t.me/YuliyaKondabaeva" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/120px-Telegram_2019_Logo.svg.png" width="30" height="30" alt="telegram"/></a>
+Max|<a href="https://max.ru/u/f9LHodD0cOI-3W59EsHy5lcp99_PZKEatHIGjxgysf3bKiDPuJ8A7W9A8d8" target="_blank"><img src="https://maxicons.ru/icons/MAX.svg" height="30" alt="max" /></a>|
 
 ### Примеры работ можно посмотреть тут:  
 https://github.com/uakondabaeva/uakondabaeva
@@ -25,18 +21,7 @@ https://github.com/uakondabaeva/uakondabaeva
 ---
 ### Мои навыки
 
-#### Тестовая документация:
-- Jira
-- Test IT
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test IT" alt="Test IT" width="30" height="30"/>
-</div>
-
-
-
-#### Тестирование приложений:
+#### Инструменты тестирования:
 - Chrome DevTools
 - Postman
 - SoapUI
@@ -55,11 +40,22 @@ https://github.com/uakondabaeva/uakondabaeva
 
 
 #### Работа с данными:
-- MySQL  
+- MySQL
+- PostgreSQL
 - Регулярные выражения
 
 <div>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-logo-icon-svg-download-png-3030165.png?f=webp&w=128" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-logo-icon-svg-download-png-3030165.png?f=webp&w=128" height="50"/>&nbsp
+  <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="50"/>
+</div>
+
+#### Багтрекинговые системы:
+- Jira
+- Test IT
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test IT" alt="Test IT" width="30" height="30"/>
 </div>
 
 
