@@ -59,11 +59,12 @@ https://github.com/uakondabaeva/uakondabaeva
 </div>
 
 
-#### Есть навыки работы:
+#### Другие инструменты:
 - Docker
 - Git
 - Linux (уверенный пользователь CLI)
 - Python
+- Pytest
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Docker_Logo.png/960px-Docker_Logo.png" title="Docker" alt="Docker" height="30"/>&nbsp
